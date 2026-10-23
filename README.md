@@ -1,77 +1,21 @@
-# ¡Hola! Soy Mjr4 👋
+# ¡Hola! Soy Martin 👋
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnología y siempre en busca de nuevos desafíos.
-
----
-
-## 🚀 Sobre mí
-
-- 💻 Desarrollador full-stack
-- 🌱 Siempre aprendiendo nuevas tecnologías
-- 🎯 Enfocado en crear soluciones innovadoras
-- 📍 Abierto a colaboraciones y proyectos interesantes
+Desarrollador web aprendiendo y construyendo proyectos con Python y JavaScript.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías
 
-### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frameworks y Librerías
-- React
-- Node.js
-- Express
-- Django
-
-### Bases de Datos
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### Herramientas
-- Git & GitHub
-- VS Code
-- Docker
-- Linux
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Mjr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjr4&show_icons=true&theme=radical)
-
----
-
-## 🎓 Experiencia
-
-- Desarrollo de aplicaciones web responsivas
-- Implementación de APIs REST
-- Gestión de bases de datos
-- Control de versiones con Git
-
----
-
-## 📫 Contáctame
-
-- 📧 Email: [Tu email aquí]
-- 🔗 LinkedIn: [Tu LinkedIn aquí]
-- 🐦 Twitter: [Tu Twitter aquí]
-
----
-
-## 💡 Intereses
-
-- Web Development
-- Mobile Development
-- Machine Learning
-- Open Source
-
----
-
-⭐ Si te gustó algo de mi trabajo, no dudes en darle una estrella a los repositorios que te interesen.
-
-*Last updated: 2026-05-19*
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
